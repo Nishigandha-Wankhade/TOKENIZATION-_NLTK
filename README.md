@@ -1,4 +1,4 @@
-This file shows the basic functionality of functions from NLTK package used for tokenization.
+This file shows few functions from NLTK package used for tokenization.
 
 sent_tokenize(corpus)       : used to convert paragraphs to sentences based on full stop and exclamation punctuation symbols.
 
